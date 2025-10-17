@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "hotlandidle"
+		},
+		{
+			"offsets": [
+				257,
+				-23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "hotlandleft"
+		},
+		{
+			"offsets": [
+				13,
+				-19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "hotlanddown"
+		},
+		{
+			"offsets": [
+				55,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "hotlandright"
+		},
+		{
+			"offsets": [
+				86,
+				-22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "hotlandup"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/you-are/PLAYERhotland",
+	"position": [
+		1570,
+		200
+	],
+	"healthicon": "player",
+	"flip_x": false,
+	"healthbar_colors": [
+		0, 
+		255, 
+		255
+	],
+	"camera_position": [
+		-900,
+		-100
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

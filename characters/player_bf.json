@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BFidle"
+		},
+		{
+			"offsets": [
+				176,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BFleft0"
+		},
+		{
+			"offsets": [
+				-61,
+				-95
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BFdown0"
+		},
+		{
+			"offsets": [
+				-333,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BFright0"
+		},
+		{
+			"offsets": [
+				-88,
+				233
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BFup0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/you-are/BFPLAYER",
+	"position": [
+		-300,
+		640
+	],
+	"healthicon": "player",
+	"flip_x": false,
+	"healthbar_colors": [
+		14, 
+		70, 
+		147
+	],
+	"camera_position": [
+		520,
+		-400
+	],
+	"sing_duration": 6,
+	"scale": 1.1
+}

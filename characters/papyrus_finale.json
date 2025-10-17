@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "PAPSidle"
+		},
+		{
+			"offsets": [
+				194,
+				-23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "PAPSleft"
+		},
+		{
+			"offsets": [
+				-1,
+				180
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "PAPSdown"
+		},
+		{
+			"offsets": [
+				-130,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "PAPSright"
+		},
+		{
+			"offsets": [
+				-54,
+				538
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "PAPSup"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/you-are/PapyrusFINALE",
+	"position": [
+		-180,
+		-390
+	],
+	"healthicon": "phantompaps-br",
+	"flip_x": false,
+	"healthbar_colors": [
+		255, 
+		0, 
+		0
+	],
+	"camera_position": [
+		320,
+		-1300
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

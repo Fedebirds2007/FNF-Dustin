@@ -1,0 +1,2781 @@
+{
+    "song": {
+        "events": [
+            [
+                0,
+                [
+                    [
+                        "Change HUD Alpha",
+                        "false,0,4",
+                        "linear,In"
+                    ],
+                    [
+                        "Screen Coverer",
+                        "true,-16777216,0,4",
+                        "linear,In,camHUD,front"
+                    ],
+                    [
+                        "Video Cutscene",
+                        "youare-intro",
+                        "mp4"
+                    ]
+                ]
+            ],
+            [
+                20948.275862069,
+                [
+                    [
+                        "Cam Target",
+                        "dad",
+                        ""
+                    ]
+                ]
+            ],
+            [
+                22068.9655172414,
+                [
+                    [
+                        "Camera Flash",
+                        "false,-1",
+                        "4,camHUD"
+                    ],
+                    [
+                        "Cinematic Bars",
+                        "false,0.4,4",
+                        "linear,In,camHUD"
+                    ],
+                    [
+                        "Bloom Effect",
+                        "false,5,4",
+                        "linear,In"
+                    ],
+                    [
+                        "Camera Modulo Change",
+                        "2",
+                        "1"
+                    ]
+                ]
+            ],
+            [
+                22155.1724137931,
+                [
+                    [
+                        "Cinematic Bars",
+                        "true,0,64",
+                        "quadOut,camHUD"
+                    ],
+                    [
+                        "Bloom Effect",
+                        "true,2,24",
+                        "quadOut"
+                    ],
+                    [
+                        "Change HUD Alpha",
+                        "true,0.8,8",
+                        "linear,In"
+                    ]
+                ]
+            ],
+            [
+                22241.3793103448,
+                [
+                    [
+                        "Cam Target",
+                        "dad",
+                        ""
+                    ],
+                    [
+                        "Change Stage Zoom",
+                        "true,true,false,false,true",
+                        "0.25,4,quart,Out"
+                    ]
+                ]
+            ],
+            [
+                24827.5862068966,
+                [
+                    [
+                        "Change Stage Zoom",
+                        "true,true,false,false,true",
+                        "0.4,4,quart,Out"
+                    ]
+                ]
+            ],
+            [
+                27068.9655172414,
+                [
+                    [
+                        "Change Stage Zoom",
+                        "true,true,false,false,true",
+                        "0.25,4,quart,Out"
+                    ]
+                ]
+            ],
+            [
+                27586.2068965517,
+                [
+                    [
+                        "Camera Speed",
+                        "0.05",
+                        ""
+                    ]
+                ]
+            ],
+            [
+                30344.8275862069,
+                [
+                    [
+                        "Change Stage Zoom",
+                        "true,true,false,false,true",
+                        "0.4,4,quart,Out"
+                    ]
+                ]
+            ],
+            [
+                32413.7931034483,
+                [
+                    [
+                        "Change Stage Zoom",
+                        "true,true,false,false,true",
+                        "0.25,4,quart,Out"
+                    ]
+                ]
+            ],
+            [
+                33103.4482758621,
+                [
+                    [
+                        "Change Stage Zoom",
+                        "false,true,false,false,true",
+                        "0.25,8,quadOut"
+                    ]
+                ]
+            ],
+            [
+                35862.0689655172,
+                [
+                    [
+                        "Change Stage Zoom",
+                        "false,true,false,false,true",
+                        "0.35,8,quadOut"
+                    ]
+                ]
+            ],
+            [
+                37327.5862068966,
+                [
+                    [
+                        "Change Stage Zoom",
+                        "false,true,false,false,true",
+                        "0.45,8,quadOut"
+                    ]
+                ]
+            ],
+            [
+                38620.6896551724,
+                [
+                    [
+                        "Change Stage Zoom",
+                        "false,true,false,false,true",
+                        "0.25,8,quadOut"
+                    ]
+                ]
+            ],
+            [
+                41379.3103448276,
+                [
+                    [
+                        "Cinematic Bars",
+                        "true,0.1,4",
+                        "quadOut,camHUD"
+                    ],
+                    [
+                        "Add Camera Zoom",
+                        "0.05",
+                        "0"
+                    ],
+                    [
+                        "Saturation Effect",
+                        "true,0.01,4",
+                        "quadOut"
+                    ]
+                ]
+            ],
+            [
+                41896.5517241379,
+                [
+                    [
+                        "Cinematic Bars",
+                        "true,0.15,4",
+                        "quadOut,camHUD"
+                    ],
+                    [
+                        "Add Camera Zoom",
+                        "0.05",
+                        "0"
+                    ]
+                ]
+            ],
+            [
+                42413.7931034483,
+                [
+                    [
+                        "Cinematic Bars",
+                        "true,0.2,4",
+                        "quadOut,camHUD"
+                    ],
+                    [
+                        "Add Camera Zoom",
+                        "0.05",
+                        "0"
+                    ]
+                ]
+            ],
+            [
+                43448.275862069,
+                [
+                    [
+                        "Change Stage Zoom",
+                        "true,true,false,false,true",
+                        "0.4,4,quart,Out"
+                    ]
+                ]
+            ],
+            [
+                44137.9310344828,
+                [
+                    [
+                        "Cinematic Bars",
+                        "true,0.1,8",
+                        "quad,InOut,camHUD"
+                    ],
+                    [
+                        "Saturation Effect",
+                        "false,1,4",
+                        "linear,In"
+                    ],
+                    [
+                        "Bloom Effect",
+                        "false,5,4",
+                        "linear,In"
+                    ],
+                    [
+                        "Camera Modulo Change",
+                        "1",
+                        "1.1"
+                    ],
+                    [
+                        "Camera Speed",
+                        "0.2",
+                        ""
+                    ]
+                ]
+            ],
+            [
+                44224.1379310345,
+                [
+                    [
+                        "Bloom Effect",
+                        "true,2,8",
+                        "quadOut"
+                    ]
+                ]
+            ],
+            [
+                46896.5517241379,
+                [
+                    [
+                        "Cinematic Bars",
+                        "true,0.2,4",
+                        "quadOut,camHUD"
+                    ],
+                    [
+                        "Add Camera Zoom",
+                        "0.05",
+                        "0"
+                    ],
+                    [
+                        "Saturation Effect",
+                        "true,0.01,4",
+                        "quadOut"
+                    ]
+                ]
+            ],
+            [
+                47413.7931034483,
+                [
+                    [
+                        "Cinematic Bars",
+                        "true,0.25,4",
+                        "quadOut,camHUD"
+                    ],
+                    [
+                        "Add Camera Zoom",
+                        "0.05",
+                        "0"
+                    ]
+                ]
+            ],
+            [
+                47931.0344827586,
+                [
+                    [
+                        "Cinematic Bars",
+                        "true,0.3,4",
+                        "quadOut,camHUD"
+                    ],
+                    [
+                        "Add Camera Zoom",
+                        "0.05",
+                        "0"
+                    ]
+                ]
+            ],
+            [
+                48620.6896551724,
+                [
+                    [
+                        "Change Stage Zoom",
+                        "true,true,false,false,true",
+                        "0.25,4,quart,Out"
+                    ]
+                ]
+            ],
+            [
+                49655.1724137931,
+                [
+                    [
+                        "Cinematic Bars",
+                        "true,0,8",
+                        "quad,InOut,camHUD"
+                    ],
+                    [
+                        "Saturation Effect",
+                        "false,1,4",
+                        "linear,In"
+                    ],
+                    [
+                        "Bloom Effect",
+                        "false,5,4",
+                        "linear,In"
+                    ],
+                    [
+                        "Camera Modulo Change",
+                        "1",
+                        "1.1"
+                    ],
+                    [
+                        "Camera Speed",
+                        "0.2",
+                        ""
+                    ]
+                ]
+            ],
+            [
+                49741.3793103448,
+                [
+                    [
+                        "Bloom Effect",
+                        "true,2,8",
+                        "quadOut"
+                    ]
+                ]
+            ],
+            [
+                52413.7931034483,
+                [
+                    [
+                        "Cinematic Bars",
+                        "true,0.1,4",
+                        "quadOut,camHUD"
+                    ],
+                    [
+                        "Add Camera Zoom",
+                        "0.05",
+                        "0"
+                    ],
+                    [
+                        "Saturation Effect",
+                        "true,0.01,4",
+                        "quadOut"
+                    ]
+                ]
+            ],
+            [
+                52931.0344827587,
+                [
+                    [
+                        "Cinematic Bars",
+                        "true,0.15,4",
+                        "quadOut,camHUD"
+                    ],
+                    [
+                        "Add Camera Zoom",
+                        "0.05",
+                        "0"
+                    ]
+                ]
+            ],
+            [
+                53448.275862069,
+                [
+                    [
+                        "Cinematic Bars",
+                        "true,0.2,4",
+                        "quadOut,camHUD"
+                    ],
+                    [
+                        "Add Camera Zoom",
+                        "0.05",
+                        "0"
+                    ]
+                ]
+            ],
+            [
+                54827.5862068966,
+                [
+                    [
+                        "Change Scroll Speed",
+                        "0.5",
+                        "0.17"
+                    ],
+                    [
+                        "Cinematic Bars",
+                        "true,0.8,4",
+                        "linear,In,camHUD"
+                    ]
+                ]
+            ],
+            [
+                55172.4137931034,
+                [
+                    [
+                        "Cinematic Bars",
+                        "true,0.2,8",
+                        "quad,InOut,camHUD"
+                    ],
+                    [
+                        "Saturation Effect",
+                        "false,1,4",
+                        "linear,In"
+                    ],
+                    [
+                        "Bloom Effect",
+                        "false,6,4",
+                        "linear,In"
+                    ],
+                    [
+                        "Camera Modulo Change",
+                        "1",
+                        "1.1"
+                    ],
+                    [
+                        "Camera Speed",
+                        "0.01",
+                        ""
+                    ],
+                    [
+                        "Camera Flash",
+                        "false,-1",
+                        "4,camGame"
+                    ],
+                    [
+                        "Change Scroll Speed",
+                        "1",
+                        "0.34"
+                    ]
+                ]
+            ],
+            [
+                55258.6206896552,
+                [
+                    [
+                        "Bloom Effect",
+                        "true,3,8",
+                        "quadOut"
+                    ],
+                    [
+                        "Contrast Effect",
+                        "false,1.3,4",
+                        "linear,In"
+                    ]
+                ]
+            ],
+            [
+                55517.2413793104,
+                [
+                    [
+                        "Change Stage Zoom",
+                        "true,true,false,false,true",
+                        "0.4,4,quart,Out"
+                    ]
+                ]
+            ],
+            [
+                57931.0344827586,
+                [
+                    [
+                        "Cinematic Bars",
+                        "true,0.1,4",
+                        "quadOut,camHUD"
+                    ],
+                    [
+                        "Add Camera Zoom",
+                        "0.05",
+                        "0"
+                    ],
+                    [
+                        "Saturation Effect",
+                        "true,0.01,4",
+                        "quadOut"
+                    ],
+                    [
+                        "Camera Speed",
+                        "0.05",
+                        ""
+                    ]
+                ]
+            ],
+            [
+                58275.8620689655,
+                [
+                    [
+                        "Cinematic Bars",
+                        "true,0.15,4",
+                        "quadOut,camHUD"
+                    ],
+                    [
+                        "Add Camera Zoom",
+                        "0.05",
+                        "0"
+                    ]
+                ]
+            ],
+            [
+                58620.6896551724,
+                [
+                    [
+                        "Cinematic Bars",
+                        "true,0.2,4",
+                        "quadOut,camHUD"
+                    ],
+                    [
+                        "Add Camera Zoom",
+                        "0.05",
+                        "0"
+                    ]
+                ]
+            ],
+            [
+                58965.5172413793,
+                [
+                    [
+                        "Cinematic Bars",
+                        "true,0.3,4",
+                        "quadOut,camHUD"
+                    ],
+                    [
+                        "Add Camera Zoom",
+                        "0.05",
+                        "0"
+                    ]
+                ]
+            ],
+            [
+                59137.9310344828,
+                [
+                    [
+                        "Cinematic Bars",
+                        "true,0.1,4",
+                        "quadOut,camHUD"
+                    ],
+                    [
+                        "Add Camera Zoom",
+                        "0.05",
+                        "0"
+                    ],
+                    [
+                        "Saturation Effect",
+                        "true,1,4",
+                        "quadOut"
+                    ]
+                ]
+            ],
+            [
+                59482.7586206897,
+                [
+                    [
+                        "Change Stage Zoom",
+                        "true,true,false,false,true",
+                        "0.25,4,quart,Out"
+                    ]
+                ]
+            ],
+            [
+                60689.6551724138,
+                [
+                    [
+                        "Cinematic Bars",
+                        "true,0.2,8",
+                        "quad,InOut,camHUD"
+                    ],
+                    [
+                        "Saturation Effect",
+                        "false,1,4",
+                        "linear,In"
+                    ],
+                    [
+                        "Bloom Effect",
+                        "false,6,4",
+                        "linear,In"
+                    ],
+                    [
+                        "Camera Modulo Change",
+                        "1",
+                        "1.1"
+                    ],
+                    [
+                        "Camera Speed",
+                        "0.01",
+                        ""
+                    ],
+                    [
+                        "Change Scroll Speed",
+                        "1",
+                        "0.34"
+                    ],
+                    [
+                        "Contrast Effect",
+                        "false,1.8,4",
+                        "linear,In"
+                    ]
+                ]
+            ],
+            [
+                60689.6551724138,
+                [
+                    [
+                        "Change Stage Zoom",
+                        "true,true,false,false,true",
+                        "0.4,4,quart,Out"
+                    ]
+                ]
+            ],
+            [
+                60775.8620689656,
+                [
+                    [
+                        "Bloom Effect",
+                        "true,3,8",
+                        "quadOut"
+                    ],
+                    [
+                        "Contrast Effect",
+                        "false,1.3,4",
+                        "linear,In"
+                    ]
+                ]
+            ],
+            [
+                63448.275862069,
+                [
+                    [
+                        "Saturation Effect",
+                        "false,0.01,4",
+                        "linear,In"
+                    ],
+                    [
+                        "Change Stage Zoom",
+                        "true,false,false,false,true",
+                        "0.35,4,linear,In"
+                    ]
+                ]
+            ],
+            [
+                63965.5172413793,
+                [
+                    [
+                        "Saturation Effect",
+                        "false,0.01,4",
+                        "linear,In"
+                    ],
+                    [
+                        "Change Stage Zoom",
+                        "true,false,false,false,true",
+                        "0.4,4,linear,In"
+                    ]
+                ]
+            ],
+            [
+                64655.1724137931,
+                [
+                    [
+                        "Saturation Effect",
+                        "false,0.01,4",
+                        "linear,In"
+                    ],
+                    [
+                        "Change Stage Zoom",
+                        "true,false,false,false,true",
+                        "0.5,4,linear,In"
+                    ],
+                    [
+                        "Cinematic Bars",
+                        "true,0.3,8",
+                        "quad,InOut,camHUD"
+                    ]
+                ]
+            ],
+            [
+                65862.0689655172,
+                [
+                    [
+                        "Cinematic Bars",
+                        "true,1,4",
+                        "linear,In,camHUD"
+                    ],
+                    [
+                        "Camera Flash",
+                        "false,-15856371",
+                        "2,camGame"
+                    ]
+                ]
+            ],
+            [
+                66034.4827586207,
+                [
+                    [
+                        "Camera Flash",
+                        "false,-15856371",
+                        "1,camGame"
+                    ]
+                ]
+            ],
+            [
+                66206.8965517241,
+                [
+                    [
+                        "Change Stage Zoom",
+                        "true,true,false,false,true",
+                        "0.4,1,linear,In"
+                    ],
+                    [
+                        "Change Character",
+                        "Dad",
+                        "papyrus_corrupted"
+                    ],
+                    [
+                        "Saturation Effect",
+                        "false,1,4",
+                        "linear,In"
+                    ],
+                    [
+                        "Bloom Effect",
+                        "false,2,4",
+                        "linear,In"
+                    ],
+                    [
+                        "Change Character",
+                        "BF",
+                        "player_playble"
+                    ],
+                    [
+                        "Cinematic Bars",
+                        "true,0.2,12",
+                        "quadOut,camHUD"
+                    ],
+                    [
+                        "Contrast Effect",
+                        "false,1,4",
+                        "linear,In"
+                    ],
+                    [
+                        "Camera Flash",
+                        "false,-1",
+                        "8,camGame"
+                    ],
+                    [
+                        "Camera Modulo Change",
+                        "2",
+                        "1"
+                    ],
+                    [
+                        "Cam Target",
+                        "dad",
+                        ""
+                    ],
+                    [
+                        "Camera Speed",
+                        "0.05",
+                        ""
+                    ]
+                ]
+            ],
+            [
+                70689.6551724138,
+                [
+                    [
+                        "Cam Target",
+                        "bf",
+                        ""
+                    ]
+                ]
+            ],
+            [
+                71724.1379310345,
+                [
+                    [
+                        "Camera Speed",
+                        "0.2",
+                        ""
+                    ]
+                ]
+            ],
+            [
+                74482.7586206897,
+                [
+                    [
+                        "Cinematic Bars",
+                        "true,0.25,2",
+                        "linear,In,camHUD"
+                    ],
+                    [
+                        "Change Stage Zoom",
+                        "true,true,false,false,true",
+                        "0.5,4,quart,In"
+                    ],
+                    [
+                        "Contrast Effect",
+                        "true,1.3,2",
+                        "linear,In"
+                    ],
+                    [
+                        "Cam Target",
+                        "dad",
+                        ""
+                    ]
+                ]
+            ],
+            [
+                75172.4137931034,
+                [
+                    [
+                        "Cam Target",
+                        "bf",
+                        ""
+                    ]
+                ]
+            ],
+            [
+                75862.0689655172,
+                [
+                    [
+                        "Cam Target",
+                        "dad",
+                        ""
+                    ],
+                    [
+                        "Camera Speed",
+                        "0.2",
+                        ""
+                    ],
+                    [
+                        "Saturation Effect",
+                        "true,0.7,2",
+                        "linear,In"
+                    ]
+                ]
+            ],
+            [
+                76551.724137931,
+                [
+                    [
+                        "Cam Target",
+                        "bf",
+                        ""
+                    ]
+                ]
+            ],
+            [
+                77241.3793103448,
+                [
+                    [
+                        "Camera Speed",
+                        "0.05",
+                        ""
+                    ],
+                    [
+                        "Cam Target",
+                        "dad",
+                        ""
+                    ],
+                    [
+                        "Change Stage Zoom",
+                        "true,true,false,false,true",
+                        "0.4,12,quart,Out"
+                    ],
+                    [
+                        "Cinematic Bars",
+                        "true,0.2,12",
+                        "quadOut,camHUD"
+                    ],
+                    [
+                        "Bloom Effect",
+                        "false,5,4",
+                        "linear,In"
+                    ],
+                    [
+                        "Saturation Effect",
+                        "false,1,4",
+                        "linear,In"
+                    ],
+                    [
+                        "Contrast Effect",
+                        "false,1,4",
+                        "linear,In"
+                    ]
+                ]
+            ],
+            [
+                77327.5862068966,
+                [
+                    [
+                        "Bloom Effect",
+                        "true,2,8",
+                        "quadOut"
+                    ]
+                ]
+            ],
+            [
+                81724.1379310344,
+                [
+                    [
+                        "Cam Target",
+                        "bf",
+                        ""
+                    ]
+                ]
+            ],
+            [
+                84655.172413793,
+                [
+                    [
+                        "Cam Target",
+                        "dad",
+                        ""
+                    ]
+                ]
+            ],
+            [
+                85517.2413793103,
+                [
+                    [
+                        "Cinematic Bars",
+                        "true,0.3,2",
+                        "linear,In,camHUD"
+                    ],
+                    [
+                        "Camera Speed",
+                        "0.2",
+                        ""
+                    ],
+                    [
+                        "Change Scroll Speed",
+                        "0.69",
+                        "0.34"
+                    ],
+                    [
+                        "Saturation Effect",
+                        "true,0.2,4",
+                        "linear,In"
+                    ]
+                ]
+            ],
+            [
+                86896.5517241379,
+                [
+                    [
+                        "Change Stage Zoom",
+                        "true,true,false,false,true",
+                        "0.5,12,quadOut"
+                    ]
+                ]
+            ],
+            [
+                87586.2068965517,
+                [
+                    [
+                        "Change Scroll Speed",
+                        "1",
+                        "0.69"
+                    ]
+                ]
+            ],
+            [
+                88275.8620689655,
+                [
+                    [
+                        "Screen Coverer",
+                        "false,-16777216,1,4",
+                        "linear,In,camHUD,back"
+                    ],
+                    [
+                        "Cam Target",
+                        "bf",
+                        ""
+                    ]
+                ]
+            ],
+            [
+                88965.5172413793,
+                [
+                    [
+                        "Screen Coverer",
+                        "false,-16053493,0,4",
+                        "linear,In,camHUD,back"
+                    ],
+                    [
+                        "Camera Flash",
+                        "false,-1",
+                        "4,camGame"
+                    ],
+                    [
+                        "Bloom Effect",
+                        "false,6,4",
+                        "linear,In"
+                    ],
+                    [
+                        "Saturation Effect",
+                        "false,0.7,4",
+                        "linear,In"
+                    ],
+                    [
+                        "Contrast Effect",
+                        "false,1.8,4",
+                        "linear,In"
+                    ],
+                    [
+                        "Change Character",
+                        "Dad",
+                        "papyrus_finale"
+                    ],
+                    [
+                        "Change Character",
+                        "BF",
+                        "player_bf"
+                    ],
+                    [
+                        "Camera Speed",
+                        "0.2",
+                        ""
+                    ],
+                    [
+                        "Change Stage Zoom",
+                        "true,true,false,false,true",
+                        "0.4,4,linear,In"
+                    ],
+                    [
+                        "Camera Modulo Change",
+                        "1",
+                        "1.2"
+                    ]
+                ]
+            ],
+            [
+                89051.724137931,
+                [
+                    [
+                        "Bloom Effect",
+                        "true,2,8",
+                        "quadOut"
+                    ]
+                ]
+            ],
+            [
+                95862.0689655172,
+                [
+                    [
+                        "Change Stage Zoom",
+                        "true,false,false,false,true",
+                        "0.6,2,quart,Out"
+                    ],
+                    [
+                        "Saturation Effect",
+                        "true,0.01,2",
+                        "quad,In"
+                    ],
+                    [
+                        "Cinematic Bars",
+                        "true,0.4,2",
+                        "quadOut,camHUD"
+                    ]
+                ]
+            ],
+            [
+                96551.724137931,
+                [
+                    [
+                        "Bloom Effect",
+                        "false,6,4",
+                        "linear,In"
+                    ],
+                    [
+                        "Saturation Effect",
+                        "false,0.7,4",
+                        "linear,In"
+                    ],
+                    [
+                        "Contrast Effect",
+                        "false,1.8,4",
+                        "linear,In"
+                    ],
+                    [
+                        "Camera Speed",
+                        "0.2",
+                        ""
+                    ],
+                    [
+                        "Change Stage Zoom",
+                        "true,true,false,false,true",
+                        "0.4,4,linear,In"
+                    ],
+                    [
+                        "Camera Modulo Change",
+                        "1",
+                        "1.2"
+                    ],
+                    [
+                        "Cinematic Bars",
+                        "true,0.2,8",
+                        "quad,In,camHUD"
+                    ]
+                ]
+            ],
+            [
+                96637.9310344828,
+                [
+                    [
+                        "Bloom Effect",
+                        "true,2,8",
+                        "quadOut"
+                    ]
+                ]
+            ],
+            [
+                99310.3448275862,
+                [
+                    [
+                        "Bloom Effect",
+                        "false,6,4",
+                        "linear,In"
+                    ],
+                    [
+                        "Saturation Effect",
+                        "false,0.7,4",
+                        "linear,In"
+                    ],
+                    [
+                        "Contrast Effect",
+                        "false,1.8,4",
+                        "linear,In"
+                    ],
+                    [
+                        "Camera Speed",
+                        "0.2",
+                        ""
+                    ],
+                    [
+                        "Change Stage Zoom",
+                        "true,true,false,false,true",
+                        "0.35,4,linear,In"
+                    ],
+                    [
+                        "Camera Modulo Change",
+                        "1",
+                        "1.2"
+                    ]
+                ]
+            ],
+            [
+                99396.5517241379,
+                [
+                    [
+                        "Bloom Effect",
+                        "true,2,8",
+                        "quadOut"
+                    ]
+                ]
+            ],
+            [
+                110344.827586207,
+                [
+                    [
+                        "Screen Coverer",
+                        "true,-16777216,1,10",
+                        "linear,In,camHUD,front"
+                    ]
+                ]
+            ],
+            [
+                113017.24137931,
+                [
+                    [
+                        "Cinematic Bars",
+                        "false,1,4",
+                        "linear,In,camHUD"
+                    ]
+                ]
+            ],
+            [
+                113103.448275862,
+                [
+                    [
+                        "Change Stage Zoom",
+                        "true,false,false,false,true",
+                        "0.4,4,linear,In"
+                    ],
+                    [
+                        "Change Stage Zoom",
+                        "false,true,false,false,true",
+                        "0.25,4,linear,In"
+                    ],
+                    [
+                        "Change Character",
+                        "Dad",
+                        "player"
+                    ],
+                    [
+                        "Change Character",
+                        "BF",
+                        "player_copy"
+                    ],
+                    [
+                        "Contrast Effect",
+                        "false,1,4",
+                        "linear,In"
+                    ],
+                    [
+                        "Saturation Effect",
+                        "false,1,4",
+                        "linear,In"
+                    ],
+                    [
+                        "Bloom Effect",
+                        "false,5,4",
+                        "linear,In"
+                    ],
+                    [
+                        "Cinematic Bars",
+                        "true,0,12",
+                        "quadOut,camHUD"
+                    ],
+                    [
+                        "Screen Coverer",
+                        "false,-16777216,0,4",
+                        "linear,In,camHUD,front"
+                    ],
+                    [
+                        "Camera Modulo Change",
+                        "2",
+                        "1"
+                    ]
+                ]
+            ],
+            [
+                113189.655172414,
+                [
+                    [
+                        "Bloom Effect",
+                        "true,2,8",
+                        "quadOut"
+                    ],
+                    [
+                        "Cam Target",
+                        "dad",
+                        ""
+                    ]
+                ]
+            ],
+            [
+                116206.896551724,
+                [
+                    [
+                        "Change Stage Zoom",
+                        "true,true,false,false,true",
+                        "0.25,4,quart,Out"
+                    ]
+                ]
+            ],
+            [
+                118793.103448276,
+                [
+                    [
+                        "Change Stage Zoom",
+                        "true,true,false,false,true",
+                        "0.4,4,quart,Out"
+                    ]
+                ]
+            ],
+            [
+                120172.413793103,
+                [
+                    [
+                        "Change Stage Zoom",
+                        "true,true,false,false,true",
+                        "0.25,4,quart,Out"
+                    ]
+                ]
+            ],
+            [
+                121379.310344828,
+                [
+                    [
+                        "Add Camera Zoom",
+                        "0.05",
+                        "0"
+                    ],
+                    [
+                        "Cinematic Bars",
+                        "true,0.1,4",
+                        "linear,In,camHUD"
+                    ]
+                ]
+            ],
+            [
+                122068.965517241,
+                [
+                    [
+                        "Add Camera Zoom",
+                        "0.05",
+                        "0"
+                    ],
+                    [
+                        "Cinematic Bars",
+                        "true,0.15,4",
+                        "linear,In,camHUD"
+                    ]
+                ]
+            ],
+            [
+                122586.206896552,
+                [
+                    [
+                        "Add Camera Zoom",
+                        "0.05",
+                        "0"
+                    ],
+                    [
+                        "Cinematic Bars",
+                        "true,0.2,4",
+                        "linear,In,camHUD"
+                    ]
+                ]
+            ],
+            [
+                124137.931034483,
+                [
+                    [
+                        "Cinematic Bars",
+                        "true,0,8",
+                        "quad,InOut,camHUD"
+                    ],
+                    [
+                        "Change Stage Zoom",
+                        "true,true,false,false,true",
+                        "0.4,4,quart,Out"
+                    ]
+                ]
+            ],
+            [
+                127068.965517241,
+                [
+                    [
+                        "Change Stage Zoom",
+                        "true,true,false,false,true",
+                        "0.25,4,quart,Out"
+                    ]
+                ]
+            ],
+            [
+                129655.172413793,
+                [
+                    [
+                        "Saturation Effect",
+                        "true,0.01,32",
+                        "linear,In"
+                    ],
+                    [
+                        "Cinematic Bars",
+                        "true,0.3,32",
+                        "quad,InOut,camHUD"
+                    ],
+                    [
+                        "Change Stage Zoom",
+                        "true,true,false,false,true",
+                        "0.4,4,quart,Out"
+                    ]
+                ]
+            ],
+            [
+                131206.896551724,
+                [
+                    [
+                        "Change Stage Zoom",
+                        "true,true,false,false,true",
+                        "0.25,4,quart,Out"
+                    ]
+                ]
+            ],
+            [
+                134137.931034483,
+                [
+                    [
+                        "Change Scroll Speed",
+                        "0.5",
+                        "0.34"
+                    ],
+                    [
+                        "Change Stage Zoom",
+                        "true,true,false,false,true",
+                        "0.4,4,quart,Out"
+                    ]
+                ]
+            ],
+            [
+                135172.413793103,
+                [
+                    [
+                        "Cinematic Bars",
+                        "true,0.2,8",
+                        "quad,InOut,camHUD"
+                    ],
+                    [
+                        "Saturation Effect",
+                        "false,1,4",
+                        "linear,In"
+                    ],
+                    [
+                        "Bloom Effect",
+                        "false,6,4",
+                        "linear,In"
+                    ],
+                    [
+                        "Camera Modulo Change",
+                        "1",
+                        "1.1"
+                    ],
+                    [
+                        "Camera Speed",
+                        "0.01",
+                        ""
+                    ],
+                    [
+                        "Camera Flash",
+                        "false,-1",
+                        "4,camGame"
+                    ],
+                    [
+                        "Change Scroll Speed",
+                        "1",
+                        "0.34"
+                    ]
+                ]
+            ],
+            [
+                135258.620689655,
+                [
+                    [
+                        "Bloom Effect",
+                        "true,3,8",
+                        "quadOut"
+                    ],
+                    [
+                        "Contrast Effect",
+                        "false,1.3,4",
+                        "linear,In"
+                    ]
+                ]
+            ],
+            [
+                137931.034482759,
+                [
+                    [
+                        "Screen Coverer",
+                        "false,-16777216,1,4",
+                        "linear,In,camHUD,front"
+                    ]
+                ]
+            ],
+            [
+                138103.448275862,
+                [
+                    [
+                        "Screen Coverer",
+                        "false,-16777216,0,4",
+                        "linear,In,camHUD,front"
+                    ],
+                    [
+                        "Camera Flash",
+                        "false,-1",
+                        "4,camGame"
+                    ],
+                    [
+                        "Change Character",
+                        "Dad",
+                        "player_flowers"
+                    ],
+                    [
+                        "Cam Target",
+                        "dad",
+                        ""
+                    ],
+                    [
+                        "Camera Speed",
+                        "99",
+                        ""
+                    ]
+                ]
+            ],
+            [
+                138275.862068966,
+                [
+                    [
+                        "Camera Speed",
+                        "0.05",
+                        ""
+                    ]
+                ]
+            ],
+            [
+                143448.275862069,
+                [
+                    [
+                        "Add Camera Zoom",
+                        "0.05",
+                        "0"
+                    ],
+                    [
+                        "Cinematic Bars",
+                        "true,0.25,4",
+                        "quadOut,camHUD"
+                    ],
+                    [
+                        "Saturation Effect",
+                        "true,0.7,4",
+                        "quadOut"
+                    ]
+                ]
+            ],
+            [
+                143965.517241379,
+                [
+                    [
+                        "Add Camera Zoom",
+                        "0.05",
+                        "0"
+                    ],
+                    [
+                        "Cinematic Bars",
+                        "true,0.3,4",
+                        "quadOut,camHUD"
+                    ]
+                ]
+            ],
+            [
+                144482.75862069,
+                [
+                    [
+                        "Add Camera Zoom",
+                        "0.05",
+                        "0"
+                    ],
+                    [
+                        "Cinematic Bars",
+                        "true,0.35,4",
+                        "quadOut,camHUD"
+                    ]
+                ]
+            ],
+            [
+                146034.482758621,
+                [
+                    [
+                        "Saturation Effect",
+                        "true,0.01,2",
+                        "quadOut"
+                    ],
+                    [
+                        "Change Scroll Speed",
+                        "0.41",
+                        "0.17"
+                    ]
+                ]
+            ],
+            [
+                146379.310344828,
+                [
+                    [
+                        "Cinematic Bars",
+                        "true,0.2,8",
+                        "quad,InOut,camHUD"
+                    ],
+                    [
+                        "Saturation Effect",
+                        "false,1,4",
+                        "linear,In"
+                    ],
+                    [
+                        "Bloom Effect",
+                        "false,6,4",
+                        "linear,In"
+                    ],
+                    [
+                        "Camera Modulo Change",
+                        "1",
+                        "1.1"
+                    ],
+                    [
+                        "Camera Speed",
+                        "0.05",
+                        ""
+                    ],
+                    [
+                        "Change Scroll Speed",
+                        "1",
+                        "0.34"
+                    ]
+                ]
+            ],
+            [
+                146465.51724138,
+                [
+                    [
+                        "Bloom Effect",
+                        "true,3,8",
+                        "quadOut"
+                    ],
+                    [
+                        "Contrast Effect",
+                        "false,1.3,4",
+                        "linear,In"
+                    ]
+                ]
+            ],
+            [
+                154310.344827586,
+                [
+                    [
+                        "Add Camera Zoom",
+                        "0.05",
+                        "0"
+                    ],
+                    [
+                        "Cinematic Bars",
+                        "true,0.25,4",
+                        "quadOut,camHUD"
+                    ],
+                    [
+                        "Saturation Effect",
+                        "true,0.7,4",
+                        "quadOut"
+                    ]
+                ]
+            ],
+            [
+                155000,
+                [
+                    [
+                        "Add Camera Zoom",
+                        "0.05",
+                        "0"
+                    ],
+                    [
+                        "Cinematic Bars",
+                        "true,0.3,4",
+                        "quadOut,camHUD"
+                    ]
+                ]
+            ],
+            [
+                155517.24137931,
+                [
+                    [
+                        "Add Camera Zoom",
+                        "0.05",
+                        "0"
+                    ],
+                    [
+                        "Cinematic Bars",
+                        "true,0.35,4",
+                        "quadOut,camHUD"
+                    ]
+                ]
+            ],
+            [
+                157241.379310345,
+                [
+                    [
+                        "Screen Coverer",
+                        "false,-16777216,1,4",
+                        "linear,In,camHUD,back"
+                    ],
+                    [
+                        "Camera Modulo Change",
+                        "6",
+                        "1"
+                    ]
+                ]
+            ],
+            [
+                157586.206896552,
+                [
+                    [
+                        "Cinematic Bars",
+                        "true,0.2,8",
+                        "quad,InOut,camHUD"
+                    ],
+                    [
+                        "Saturation Effect",
+                        "false,1,4",
+                        "linear,In"
+                    ],
+                    [
+                        "Bloom Effect",
+                        "false,6,4",
+                        "linear,In"
+                    ],
+                    [
+                        "Camera Modulo Change",
+                        "1",
+                        "1.1"
+                    ],
+                    [
+                        "Change Scroll Speed",
+                        "1",
+                        "0.34"
+                    ],
+                    [
+                        "Screen Coverer",
+                        "false,-16777216,0,4",
+                        "linear,In,camHUD,back"
+                    ],
+                    [
+                        "Camera Flash",
+                        "false,-1",
+                        "4,camGame"
+                    ],
+                    [
+                        "Change Character",
+                        "Dad",
+                        "player-waterfall"
+                    ],
+                    [
+                        "Camera Modulo Change",
+                        "2",
+                        "1"
+                    ],
+                    [
+                        "Cam Target",
+                        "dad",
+                        ""
+                    ],
+                    [
+                        "Camera Speed",
+                        "99",
+                        ""
+                    ]
+                ]
+            ],
+            [
+                157672.413793103,
+                [
+                    [
+                        "Bloom Effect",
+                        "true,3,8",
+                        "quadOut"
+                    ],
+                    [
+                        "Camera Speed",
+                        "0.05",
+                        ""
+                    ],
+                    [
+                        "Contrast Effect",
+                        "false,1.3,4",
+                        "linear,In"
+                    ]
+                ]
+            ],
+            [
+                157758.620689655,
+                [
+                    [
+                        "Camera Speed",
+                        "0.05",
+                        ""
+                    ]
+                ]
+            ],
+            [
+                165517.24137931,
+                [
+                    [
+                        "Add Camera Zoom",
+                        "0.05",
+                        "0"
+                    ],
+                    [
+                        "Cinematic Bars",
+                        "true,0.25,4",
+                        "quadOut,camHUD"
+                    ],
+                    [
+                        "Saturation Effect",
+                        "true,0.7,4",
+                        "quadOut"
+                    ]
+                ]
+            ],
+            [
+                166034.482758621,
+                [
+                    [
+                        "Add Camera Zoom",
+                        "0.05",
+                        "0"
+                    ],
+                    [
+                        "Cinematic Bars",
+                        "true,0.3,4",
+                        "quadOut,camHUD"
+                    ]
+                ]
+            ],
+            [
+                166551.724137931,
+                [
+                    [
+                        "Add Camera Zoom",
+                        "0.05",
+                        "0"
+                    ],
+                    [
+                        "Cinematic Bars",
+                        "true,0.35,4",
+                        "quadOut,camHUD"
+                    ]
+                ]
+            ],
+            [
+                167931.034482759,
+                [
+                    [
+                        "Screen Coverer",
+                        "false,-16777216,1,4",
+                        "linear,In,camHUD,back"
+                    ],
+                    [
+                        "Camera Modulo Change",
+                        "6",
+                        "1"
+                    ]
+                ]
+            ],
+            [
+                168275.862068966,
+                [
+                    [
+                        "Cinematic Bars",
+                        "true,0.2,8",
+                        "quad,InOut,camHUD"
+                    ],
+                    [
+                        "Saturation Effect",
+                        "false,1,4",
+                        "linear,In"
+                    ],
+                    [
+                        "Bloom Effect",
+                        "false,6,4",
+                        "linear,In"
+                    ],
+                    [
+                        "Camera Modulo Change",
+                        "1",
+                        "1.1"
+                    ],
+                    [
+                        "Change Scroll Speed",
+                        "1",
+                        "0.34"
+                    ],
+                    [
+                        "Screen Coverer",
+                        "false,-16777216,0,4",
+                        "linear,In,camHUD,back"
+                    ],
+                    [
+                        "Camera Flash",
+                        "false,-1",
+                        "4,camGame"
+                    ],
+                    [
+                        "Change Character",
+                        "Dad",
+                        "player-hotland"
+                    ],
+                    [
+                        "Camera Modulo Change",
+                        "2",
+                        "1"
+                    ],
+                    [
+                        "Camera Modulo Change",
+                        "1",
+                        "1"
+                    ],
+                    [
+                        "Cam Target",
+                        "dad",
+                        ""
+                    ],
+                    [
+                        "Camera Speed",
+                        "99",
+                        ""
+                    ]
+                ]
+            ],
+            [
+                168362.068965517,
+                [
+                    [
+                        "Bloom Effect",
+                        "true,3,8",
+                        "quadOut"
+                    ],
+                    [
+                        "Contrast Effect",
+                        "false,1.3,4",
+                        "linear,In"
+                    ],
+                    [
+                        "Camera Speed",
+                        "0.05",
+                        ""
+                    ]
+                ]
+            ],
+            [
+                173448.275862069,
+                [
+                    [
+                        "Screen Coverer",
+                        "false,-16777216,1,4",
+                        "linear,In,camHUD,back"
+                    ],
+                    [
+                        "Camera Modulo Change",
+                        "6",
+                        "1"
+                    ]
+                ]
+            ],
+            [
+                173793.103448276,
+                [
+                    [
+                        "Screen Coverer",
+                        "false,-16777216,0,4",
+                        "linear,In,camHUD,back"
+                    ],
+                    [
+                        "Camera Flash",
+                        "false,-1",
+                        "4,camGame"
+                    ],
+                    [
+                        "Change Character",
+                        "Dad",
+                        "player-lab"
+                    ],
+                    [
+                        "Camera Modulo Change",
+                        "2",
+                        "1"
+                    ],
+                    [
+                        "Cam Target",
+                        "dad",
+                        ""
+                    ],
+                    [
+                        "Camera Speed",
+                        "99",
+                        ""
+                    ]
+                ]
+            ],
+            [
+                176551.724137931,
+                [
+                    [
+                        "Add Camera Zoom",
+                        "0.05",
+                        "0"
+                    ],
+                    [
+                        "Cinematic Bars",
+                        "true,0.25,4",
+                        "quadOut,camHUD"
+                    ],
+                    [
+                        "Saturation Effect",
+                        "true,0.7,4",
+                        "quadOut"
+                    ],
+                    [
+                        "Camera Speed",
+                        "0.05",
+                        ""
+                    ]
+                ]
+            ],
+            [
+                177068.965517241,
+                [
+                    [
+                        "Add Camera Zoom",
+                        "0.05",
+                        "0"
+                    ],
+                    [
+                        "Cinematic Bars",
+                        "true,0.3,4",
+                        "quadOut,camHUD"
+                    ]
+                ]
+            ],
+            [
+                177758.620689655,
+                [
+                    [
+                        "Add Camera Zoom",
+                        "0.05",
+                        "0"
+                    ],
+                    [
+                        "Cinematic Bars",
+                        "true,0.35,4",
+                        "quadOut,camHUD"
+                    ]
+                ]
+            ],
+            [
+                179137.931034483,
+                [
+                    [
+                        "Saturation Effect",
+                        "true,0.01,2",
+                        "quadOut"
+                    ],
+                    [
+                        "Cinematic Bars",
+                        "true,1,12",
+                        "quad,InOut,camHUD"
+                    ],
+                    [
+                        "Camera Modulo Change",
+                        "99",
+                        "0.4"
+                    ]
+                ]
+            ],
+            [
+                180689.655172414,
+                [
+                    [
+                        "Cinematic Bars",
+                        "true,0,8",
+                        "quadOut,camHUD"
+                    ],
+                    [
+                        "Saturation Effect",
+                        "false,1,4",
+                        "linear,In"
+                    ],
+                    [
+                        "Bloom Effect",
+                        "false,6,4",
+                        "linear,In"
+                    ],
+                    [
+                        "Camera Speed",
+                        "0.05",
+                        ""
+                    ],
+                    [
+                        "Change Scroll Speed",
+                        "1",
+                        "0.34"
+                    ],
+                    [
+                        "Camera Flash",
+                        "false,-1",
+                        "4,camGame"
+                    ],
+                    [
+                        "Change Character",
+                        "Dad",
+                        "player_pixel"
+                    ],
+                    [
+                        "Contrast Effect",
+                        "false,1,4",
+                        "linear,In"
+                    ],
+                    [
+                        "Cam Target",
+                        "dad",
+                        ""
+                    ]
+                ]
+            ],
+            [
+                180775.862068966,
+                [
+                    [
+                        "Bloom Effect",
+                        "true,1,8",
+                        "quadOut"
+                    ]
+                ]
+            ],
+            [
+                200000,
+                [
+                    [
+                        "Saturation Effect",
+                        "true,0.01,12",
+                        "quadOut"
+                    ]
+                ]
+            ],
+            [
+                200344.827586207,
+                [
+                    [
+                        "Screen Coverer",
+                        "true,-16250872,1,4",
+                        "linear,In,camHUD,back"
+                    ],
+                    [
+                        "New Change HUD Alpha",
+                        "true,0,4",
+                        "linear,In"
+                    ]
+                ]
+            ],
+            [
+                200775.862068966,
+                [
+                    [
+                        "Saturation Effect",
+                        "false,1,4",
+                        "linear,In"
+                    ]
+                ]
+            ],
+            [
+                201379.310344828,
+                [
+                    [
+                        "Video Cutscene",
+                        "youare_end",
+                        "mp4"
+                    ],
+                    [
+                        "Change Stage Zoom",
+                        "false,true,false,false,true",
+                        "0.4,4,linear,In"
+                    ]
+                ]
+            ],
+            [
+                201465.517241379,
+                [
+                    [
+                        "Screen Coverer",
+                        "false,-16777216,0,4",
+                        "linear,In,camHUD,back"
+                    ]
+                ]
+            ],
+            [
+                230246.081504702,
+                [
+                    [
+                        "Change Character",
+                        "Dad",
+                        "sans_finale"
+                    ],
+                    [
+                        "Change Character",
+                        "BF",
+                        "player_finale"
+                    ]
+                ]
+            ],
+            [
+                230298.589341693,
+                [
+                    [
+                        "Cam Target",
+                        "dad",
+                        ""
+                    ],
+                    [
+                        "Camera Speed",
+                        "99",
+                        ""
+                    ]
+                ]
+            ],
+            [
+                232344.043887147,
+                [
+                    [
+                        "Camera Speed",
+                        "0.3",
+                        ""
+                    ]
+                ]
+            ],
+            [
+                232427.89968652,
+                [
+                    [
+                        "Change Strum Skin",
+                        "uprising,false",
+                        "0"
+                    ]
+                ]
+            ],
+            [
+                232564.263322884,
+                [
+                    [
+                        "Screen Coverer",
+                        "false,-16711423,0,4",
+                        "linear,In,camHUD,front"
+                    ],
+                    [
+                        "Camera Flash",
+                        "false,-1",
+                        "4,camHUD"
+                    ],
+                    [
+                        "Bloom Effect",
+                        "false,5,4",
+                        "linear,In"
+                    ],
+                    [
+                        "Saturation Effect",
+                        "false,1,4",
+                        "linear,In"
+                    ],
+                    [
+                        "Camera Speed",
+                        "0.35",
+                        ""
+                    ],
+                    [
+                        "Change Scroll Speed",
+                        "1.13",
+                        "0.27"
+                    ],
+                    [
+                        "Camera Modulo Change",
+                        "2",
+                        "1"
+                    ]
+                ]
+            ],
+            [
+                232632.445141066,
+                [
+                    [
+                        "Bloom Effect",
+                        "true,2,8",
+                        "quart,In"
+                    ]
+                ]
+            ],
+            [
+                232700.626959248,
+                [
+                    [
+                        "New Change HUD Alpha",
+                        "true,1,8",
+                        "linear,In"
+                    ]
+                ]
+            ],
+            [
+                236791.536050157,
+                [
+                    [
+                        "Change Stage Zoom",
+                        "true,true,false,false,true",
+                        "0.5,4,quadOut"
+                    ]
+                ]
+            ],
+            [
+                239109.717868339,
+                [
+                    [
+                        "Cinematic Bars",
+                        "true,0.2,8",
+                        "linear,Out,camHUD"
+                    ],
+                    [
+                        "Saturation Effect",
+                        "true,0.6,4",
+                        "quad,In"
+                    ],
+                    [
+                        "Change Stage Zoom",
+                        "true,false,false,false,true",
+                        "0.55,2,quadOut"
+                    ]
+                ]
+            ],
+            [
+                240321.31661442,
+                [
+                    [
+                        "Cam Target",
+                        "bf",
+                        ""
+                    ]
+                ]
+            ],
+            [
+                241291.536050157,
+                [
+                    [
+                        "Saturation Effect",
+                        "false,1,4",
+                        "linear,In"
+                    ],
+                    [
+                        "Camera Speed",
+                        "0.15",
+                        ""
+                    ],
+                    [
+                        "Change Scroll Speed",
+                        "1.13",
+                        "0.27"
+                    ],
+                    [
+                        "Camera Modulo Change",
+                        "2",
+                        "1"
+                    ],
+                    [
+                        "Change Stage Zoom",
+                        "true,true,false,false,true",
+                        "0.3,4,quart,Out"
+                    ],
+                    [
+                        "Cinematic Bars",
+                        "true,0,4",
+                        "quadOut,camHUD"
+                    ]
+                ]
+            ],
+            [
+                241359.717868339,
+                [
+                    [
+                        "Bloom Effect",
+                        "true,2,8",
+                        "quart,In"
+                    ]
+                ]
+            ],
+            [
+                243473.354231975,
+                [
+                    [
+                        "Change Stage Zoom",
+                        "true,true,false,false,true",
+                        "0.35,4,linear,In"
+                    ],
+                    [
+                        "Cam Target",
+                        "dad",
+                        ""
+                    ]
+                ]
+            ],
+            [
+                244564.263322884,
+                [
+                    [
+                        "Change Stage Zoom",
+                        "true,true,false,false,true",
+                        "0.5,4,linear,In"
+                    ]
+                ]
+            ],
+            [
+                245655.172413793,
+                [
+                    [
+                        "Change Stage Zoom",
+                        "true,true,false,false,true",
+                        "0.4,4,linear,In"
+                    ],
+                    [
+                        "Cam Target",
+                        "bf",
+                        ""
+                    ]
+                ]
+            ],
+            [
+                248927.89968652,
+                [
+                    [
+                        "Cinematic Bars",
+                        "true,0.4,4",
+                        "quadOut,camHUD"
+                    ],
+                    [
+                        "Saturation Effect",
+                        "true,0.7,4",
+                        "linear,In"
+                    ],
+                    [
+                        "Change Stage Zoom",
+                        "true,true,false,false,true",
+                        "0.5,4,quart,Out"
+                    ]
+                ]
+            ],
+            [
+                250018.808777429,
+                [
+                    [
+                        "Camera Modulo Change",
+                        "88",
+                        "1"
+                    ],
+                    [
+                        "Change Scroll Speed",
+                        "0.31",
+                        "0.27"
+                    ],
+                    [
+                        "Saturation Effect",
+                        "true,0.01,4",
+                        "linear,In"
+                    ],
+                    [
+                        "Cam Target",
+                        "dad",
+                        ""
+                    ]
+                ]
+            ],
+            [
+                251927.89968652,
+                [
+                    [
+                        "Cinematic Bars",
+                        "true,1,4",
+                        "quad,In,camHUD"
+                    ],
+                    [
+                        "Change Scroll Speed",
+                        "1.22",
+                        "0.27"
+                    ]
+                ]
+            ],
+            [
+                252200.626959248,
+                [
+                    [
+                        "Camera Speed",
+                        "0.35",
+                        ""
+                    ],
+                    [
+                        "Cinematic Bars",
+                        "true,0.2,4",
+                        "quadOut,camHUD"
+                    ],
+                    [
+                        "Saturation Effect",
+                        "false,0.75,4",
+                        "linear,In"
+                    ],
+                    [
+                        "Change Scroll Speed",
+                        "1.13",
+                        "0.27"
+                    ],
+                    [
+                        "Camera Modulo Change",
+                        "1",
+                        "1.2"
+                    ],
+                    [
+                        "Change Stage Zoom",
+                        "true,true,false,false,true",
+                        "0.5,4,quart,Out"
+                    ],
+                    [
+                        "Cinematic Bars",
+                        "true,0,4",
+                        "quadOut,camHUD"
+                    ],
+                    [
+                        "Contrast Effect",
+                        "false,1.4,4",
+                        "linear,In"
+                    ],
+                    [
+                        "Camera Flash",
+                        "false,-1",
+                        "4,camGame"
+                    ],
+                    [
+                        "Bloom Effect",
+                        "false,3,8",
+                        "quart,In"
+                    ],
+                    [
+                        "Cam Target",
+                        "gf",
+                        ""
+                    ],
+                    [
+                        "Change Stage Zoom",
+                        "true,true,false,false,true",
+                        "0.15,4,quart,Out"
+                    ]
+                ]
+            ],
+            [
+                254382.445141066,
+                [
+                    [
+                        "Add Camera Zoom",
+                        "0.05",
+                        "0"
+                    ]
+                ]
+            ],
+            [
+                254927.89968652,
+                [
+                    [
+                        "Add Camera Zoom",
+                        "0.05",
+                        "0"
+                    ]
+                ]
+            ],
+            [
+                255473.354231975,
+                [
+                    [
+                        "Add Camera Zoom",
+                        "0.05",
+                        "0"
+                    ]
+                ]
+            ],
+            [
+                256548.589341693,
+                [
+                    [
+                        "Cam Target",
+                        "dad",
+                        ""
+                    ],
+                    [
+                        "Change Stage Zoom",
+                        "true,true,false,false,true",
+                        "0.5,4,quart,Out"
+                    ]
+                ]
+            ],
+            [
+                257707.680250784,
+                [
+                    [
+                        "Cam Target",
+                        "bf",
+                        ""
+                    ]
+                ]
+            ],
+            [
+                258866.771159875,
+                [
+                    [
+                        "Cam Target",
+                        "dad",
+                        ""
+                    ]
+                ]
+            ],
+            [
+                259957.680250784,
+                [
+                    [
+                        "Camera Speed",
+                        "0.5",
+                        ""
+                    ],
+                    [
+                        "Cam Target",
+                        "bf",
+                        ""
+                    ]
+                ]
+            ],
+            [
+                260927.89968652,
+                [
+                    [
+                        "Saturation Effect",
+                        "true,0.2,52",
+                        "quad,InOut"
+                    ],
+                    [
+                        "Cam Target",
+                        "gf",
+                        ""
+                    ],
+                    [
+                        "Change Stage Zoom",
+                        "true,true,false,false,true",
+                        "0.15,4,quart,Out"
+                    ]
+                ]
+            ],
+            [
+                263094.043887147,
+                [
+                    [
+                        "Cam Target",
+                        "dad",
+                        ""
+                    ],
+                    [
+                        "Change Stage Zoom",
+                        "true,true,false,false,true",
+                        "0.5,4,quart,Out"
+                    ]
+                ]
+            ],
+            [
+                264321.31661442,
+                [
+                    [
+                        "Cam Target",
+                        "bf",
+                        ""
+                    ]
+                ]
+            ],
+            [
+                265291.536050157,
+                [
+                    [
+                        "Camera Speed",
+                        "0.5",
+                        ""
+                    ],
+                    [
+                        "Saturation Effect",
+                        "true,0.75,2",
+                        "linear,In"
+                    ],
+                    [
+                        "Cam Target",
+                        "dad",
+                        ""
+                    ]
+                ]
+            ],
+            [
+                267473.354231975,
+                [
+                    [
+                        "Camera Flash",
+                        "false,-1",
+                        "2,camGame"
+                    ],
+                    [
+                        "Cam Target",
+                        "bf",
+                        ""
+                    ]
+                ]
+            ],
+            [
+                267882.445141066,
+                [
+                    [
+                        "Camera Flash",
+                        "false,-1",
+                        "2,camGame"
+                    ],
+                    [
+                        "Cam Target",
+                        "dad",
+                        ""
+                    ]
+                ]
+            ],
+            [
+                268427.89968652,
+                [
+                    [
+                        "Camera Flash",
+                        "false,-1",
+                        "4,camGame"
+                    ],
+                    [
+                        "Cam Target",
+                        "gf",
+                        ""
+                    ],
+                    [
+                        "Change Stage Zoom",
+                        "true,true,false,false,true",
+                        "0.15,4,quart,Out"
+                    ]
+                ]
+            ],
+            [
+                269723.354231975,
+                [
+                    [
+                        "Screen Coverer",
+                        "false,-16777216,1,4",
+                        "linear,In,camHUD,front"
+                    ]
+                ]
+            ]
+        ]
+    }
+}

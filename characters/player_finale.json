@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "YAidle"
+		},
+		{
+			"offsets": [
+				494,
+				-124
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "YAleft"
+		},
+		{
+			"offsets": [
+				89,
+				-92
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "YAdown"
+		},
+		{
+			"offsets": [
+				-136,
+				-368
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "YAright"
+		},
+		{
+			"offsets": [
+				22,
+				243
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "YAup"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/you-are/PLAYERFINALE",
+	"position": [
+		7000,
+		2600
+	],
+	"healthicon": "player",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-150,
+		-200
+	],
+	"sing_duration": 6,
+	"scale": 1.2
+}

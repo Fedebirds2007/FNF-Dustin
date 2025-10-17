@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "labidle"
+		},
+		{
+			"offsets": [
+				2,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "lableft"
+		},
+		{
+			"offsets": [
+				-4,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "labdown"
+		},
+		{
+			"offsets": [
+				6,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "labright"
+		},
+		{
+			"offsets": [
+				-3,
+				152
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "labup"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/you-are/PLAYERlab",
+	"position": [
+		-970,
+		-250
+	],
+	"healthicon": "player",
+	"flip_x": false,
+	"healthbar_colors": [
+		0, 
+		255, 
+		255
+	],
+	"camera_position": [
+		1300,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 1.25
+}

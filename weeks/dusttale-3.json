@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["You-Are", "player"]
+	],
+
+	"weekCharacters": [
+		"Empty",
+		"Empty"
+	],
+	"weekBefore": "",
+	"weekType": "Chapter",
+	"weekBackground": "showroom",
+	"storyName": "Chapter 1",
+	"weekName": "Injustice",
+	"location": "Showman's Showroom",
+	"startUnlocked": true,
+	"categoryType": "story",
+	"hideStoryMode": false,
+	"hideFreeplay": false,
+	"difficulties": "Hard"
+}
